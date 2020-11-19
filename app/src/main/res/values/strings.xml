@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">DemoLoginTask</string>
+
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+
+    <string name="internet_not_available">Internet Connection not Available</string>
+    <string name="internal_Server_error">Internal Server Error!</string>
+
+</resources>
